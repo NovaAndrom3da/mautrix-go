@@ -1,4 +1,4 @@
-module maunium.net/go/mautrix
+module github.com/novaandrom3da/mautrix-go
 
 go 1.22.0
 
